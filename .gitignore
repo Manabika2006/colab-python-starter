@@ -1,0 +1,24 @@
+# Ignore Colab notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Jupyter/Colab config files
+.jupyter/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
